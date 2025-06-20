@@ -1,0 +1,6 @@
+header {border:5px double darkblue;}
+header h1 {}
+header p {}
+header p:nth-child(1) {}
+header p:nth-child(2) {}
+header p:nth-child(3) {}
